@@ -1,16 +1,18 @@
-## Hi there 👋
+# Chào bạn, mình là Nhật! 👋
 
-<!--
-**lenhat8413/lenhat8413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là một lập trình viên đam mê khám phá các công nghệ mới, đặc biệt là trong lĩnh vực Fullstack và Mobile App.
 
-Here are some ideas to get you started:
+### 🛠️ Kỹ năng công nghệ
+* **Ngôn ngữ:** TypeScript, JavaScript, Java, Dart
+* **Backend:** Node.js
+* **Frontend/Mobile:** React, Flutter (Dart)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Thống kê GitHub của mình
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenhat8413&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenhat8413&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+### 📫 Cách liên hệ với mình
+* Email: [Email của bạn]
+* LinkedIn: [Link LinkedIn của bạn]
