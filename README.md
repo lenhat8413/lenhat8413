@@ -1,3 +1,6 @@
+### Hi There! 👋 
+I'm a senior student at HUTECH (Ho Chi Minh City University of Technology), gearing up for graduation and ready to take on new challenges in the tech world.
+
 # 💫 About Me:
 🔭 I’m currently working on: Backend Developer Intern (trial) at VJP, contributing to VJP Connect — a multilingual chat and networking platform built with Laravel, Flutter, Reverb WebSocket, FCM, and AI translation.<br>👯 I’m looking to collaborate on: Backend development, REST APIs, realtime chat systems, Java/Spring Boot, Node.js, Laravel, and fullstack web apps.<br>🤝 I’m looking for help with: Integrating AI models like Ollama, Gemma, and Claude into web apps and developer workflows.<br>🌱 I’m currently learning: Fullstack development, backend architecture, realtime communication, Google Cloud data tools, and AI-assisted engineering.<br>💬 Ask me about: Laravel, Java, Spring Boot, Node.js, MongoDB, REST APIs, realtime chat, Figma UI design, or Fedora dual-boot!<br>⚡ Fun fact: I love coding in coffee shops and I’m a massive fan of outdoor EDM festivals, especially Hardstyle and Dubstep!
 
